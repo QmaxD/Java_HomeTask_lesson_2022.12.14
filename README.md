@@ -1,2 +1,5 @@
-# Java_HomeTask_lesson_2022.12.14
- Практический урок по классам
+# Home Task, lesson 2022.12.14
+## JAVA
+
+Практический урок по классам
+[ссылка к классам](src/main/java/org/example/)
